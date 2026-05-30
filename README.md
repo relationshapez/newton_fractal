@@ -15,7 +15,7 @@ The interface is designed to be simple, mobile-friendly, and visually consistent
 
 The tool is available at:
 
-`https://relationshapez.github.io/newton/`
+`https://relationshapez.github.io/newton_fractal/`
 
 ## What the tool does
 
